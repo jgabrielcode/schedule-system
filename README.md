@@ -30,9 +30,5 @@ Futuramente, o projeto terá login, armazenamento de agendamentos e painel admin
 - HTML5
 - CSS3
 - JavaScript
-- WhatsApp API (via link `wa.me`)
-
----
-
-## 📂 Estrutura de pastas
+- WhatsApp API
 
